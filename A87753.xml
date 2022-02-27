@@ -1,0 +1,451 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A deep groane, fetch'd at the funerall of that incomparable and glorious monarch, Charles the First, King of Great Britaine, France and Ireland, &amp;c. On whose sacred person was acted that execrable, horrid &amp; prodigious murther, by a trayterous crew and bloudy combination at Westminster, January the 30. 1648. / Written by D.H.K.</title>
+            <title>Groane at the funerall of that incomparable and glorious monarch, Charles the First, King of Great Brittaine, France, and Ireland, &amp;c.</title>
+            <author>King, Henry, 1592-1669.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87753</idno>
+            <idno type="STC">Wing K498</idno>
+            <idno type="STC">Thomason E555_19</idno>
+            <idno type="STC">ESTC R202653</idno>
+            <idno type="EEBO-CITATION">99862868</idno>
+            <idno type="PROQUEST">99862868</idno>
+            <idno type="VID">165109</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87753)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165109)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 86:E555[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A deep groane, fetch'd at the funerall of that incomparable and glorious monarch, Charles the First, King of Great Britaine, France and Ireland, &amp;c. On whose sacred person was acted that execrable, horrid &amp; prodigious murther, by a trayterous crew and bloudy combination at Westminster, January the 30. 1648. / Written by D.H.K.</title>
+                  <title>Groane at the funerall of that incomparable and glorious monarch, Charles the First, King of Great Brittaine, France, and Ireland, &amp;c.</title>
+                  <author>King, Henry, 1592-1669.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare, M.DC.XL.IX. [1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>H.K. = Henry King.</note>
+                  <note>In verse.</note>
+                  <note>Another edition of "A groane at the funerall of that incomparable and glorious monarch, Charles the First, King of Great Brittaine, France, and Ireland, &amp;c.", and probably the later (Keynes).</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "May 16".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Death and burial --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165109:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 45 -->
+            <p>
+               <hi>A</hi> DEEPE GROANE, <hi>FETCHD</hi> At the FUNERALL of that incomparable and Glorious Monarch, <hi>CHARLES</hi> THE FIRST, <hi>King of Great Britaine, France and Ireland, &amp;c.</hi>
+            </p>
+            <p>On whoſe Sacred Perſon was acted that exe<g ref="char:EOLhyphen"/>crable, horrid &amp; prodigious Murther, by a trayterous Crew and bloudy Combination at <hi>Westminſter, January the</hi> 30. 1648.</p>
+            <q>
+               <l>—Heu fauſta Britannia quondam</l>
+               <l>Tota peris ea morte ſua, Mors non fuit ejus</l>
+               <l>Sed tua, non una haec, ſed publica mortis imago.</l>
+            </q>
+            <p>Written by <hi>D. H. K.</hi>
+            </p>
+            <figure/>
+            <p>Printed in the Yeare <hi>M. DC. XL. LX.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:165109:2"/>
+            <!-- PDF PAGE 46 -->
+            <pb n="1" facs="tcp:165109:2"/>
+            <!-- PDF PAGE 46 -->
+            <head>A DEEP GROANE, &amp;c.</head>
+            <lg>
+               <l>TO ſpeak our Griefes at full over thy Tombe</l>
+               <l>(Great Soul) we ſhould be Thunder-ſtruck and dumbe:</l>
+               <l>The triviall Off'rings of our bubling eyes</l>
+               <l>Are but faire Libels at ſuch Obſequies.</l>
+               <l>When Grief bleeds inward, not to ſenſe, 'tis deepe;</l>
+               <l>W'have loſt ſo much, that t'were a ſinne to weep.</l>
+               <l>The wretched Bankrupt counts not up his ſummes,</l>
+               <l>When his inevitable ruine comes:</l>
+               <l>Our loſſe is finite when we can compute;</l>
+               <l>But that ſtrike ſpeechleſſe, which is paſt recruite.</l>
+               <l>W'are ſunk to ſenſe; and on the Ruine gaze,</l>
+               <l>As on a curled Commets firie blaze:</l>
+               <l>As Earth-quakes fright us, when the teeming earth</l>
+               <l>Rends ope her bowels for a fatall birth;</l>
+               <l>As Inundations ſeize our trembling eyes;</l>
+               <l>Whoſe rowling billowes over Kingdomes riſe.</l>
+               <l>Alas! our Ruines are caſt up, and ſped</l>
+               <l>In that black Totall—<hi>Charles</hi> is Murthered.</l>
+               <l>Rebellious Gyant hands have broak that Pole,</l>
+               <l>On which our Orbe did long in Glory roule.</l>
+               <l>That <hi>Roman Monſters</hi> wiſh in act we ſee,
+<note place="margin">Caligula.</note>
+               </l>
+               <l>Three Kingdomes necks have felt the Axe in Thee,</l>
+               <l>The Butcherie is ſuch, as when by <hi>Caine,</hi>
+               </l>
+               <l>The fourth Deviſion of the world was ſlaine.</l>
+               <l>The mangled Church is on the ſhambles lay'd,</l>
+               <l>Her Maſſacre is on thy Block diſplay'd,</l>
+               <l>Thine is thy peoples epidemick Tombe,</l>
+               <l>Thy Sacrifice a num'rous <hi>Hecatombe.</hi>
+               </l>
+               <l>The Powder-mine's now fir'd; we were not freed,</l>
+               <l>But reſpited by Traytours thus to bleed.</l>
+               <l>
+                  <hi>Novembers</hi> plots are brew'd and broach'd in worſe,</l>
+               <l>And <hi>January</hi> now compleats the Curſe.</l>
+               <l>Our Lives, Eſtates, Lawes, and Religion, All</l>
+               <l>Lie cruſh'd, and gaſhing in this diſmall fall.</l>
+               <l>Accurſed day that blotted'ſt out our Light!</l>
+               <l>May'ſt thou be ever muffled up in Night.</l>
+               <l>At thy returne may fables hang the skie;</l>
+               <l>And teares, not beames, diſtill from Heavens Eye.</l>
+               <l>Curs'd be that ſmile that guildes a Face on thee,</l>
+               <l>
+                  <pb n="2" facs="tcp:165109:3"/>
+                  <!-- PDF PAGE 47 -->
+The Mother of prodigious Villanie.</l>
+               <l>Let not a breath be wafted, but in moanes;</l>
+               <l>And all our words be but articulate groanes.</l>
+               <l>May all thy <hi>Rubrick</hi> be this diſmall Brand;</l>
+               <l>Now comes the miſcreant Doomes-day of the Land.</l>
+               <l>
+                  <hi>Good-Friday</hi> wretchedly tranſcrib'd; and ſuch</l>
+               <l>As Horrour brings alike, though not ſo much.</l>
+               <l>May Dread ſtill fill thy minutes, and we ſit</l>
+               <l>Frighted to think, what others durſt commit.</l>
+               <l>A Fact that copies Angels when they fell,</l>
+               <l>And juſtly might create another Hell.</l>
+               <l>Above the ſcale of Crimes; Treaſon ſublim'd,</l>
+               <l>That cannot by a parallell be rim'd.</l>
+               <l>
+                  <hi>Raviliack's</hi> was but under-graduate ſinne,</l>
+               <l>And <hi>Goury</hi> here a Pupill Aſſaſſin.</l>
+               <l>
+                  <hi>Infidell</hi> wickedneſſe, without the <hi>Pale;</hi>
+               </l>
+               <l>Yet ſuch as juſtifies the Canniball.</l>
+               <l>Ryot Apochyphall of <hi>Legend</hi> breed;</l>
+               <l>Above the Canon of a Jeſuites Creed.</l>
+               <l>Spirits of witch-craft; quinteſſentiall guilt;</l>
+               <l>Hels <hi>Pyramid;</hi> another <hi>Babell</hi> built.</l>
+               <l>Monſtrous in bulke; above our <hi>Fancies</hi> ſpan;</l>
+               <l>A <hi>Behemoth;</hi> a Crime <hi>Leviathan.</hi>
+               </l>
+               <l>So deſperately damnable, that here</l>
+               <l>Ev'n <hi>Wild</hi> ſmels Treaſon, and will not appeare.</l>
+               <l>That Murdering-peece of the new Tyrant-State,</l>
+               <l>By whom't hath Shot black Deſtinies of late;</l>
+               <l>He that belched forth the Loyall <hi>Burleighs</hi> doome,</l>
+               <l>Recoyles at this ſo dreadfull Martyrdome.</l>
+               <l>What depth of Terrour lies in that Offence,</l>
+               <l>That thus can grind a ſeared Conſcience?</l>
+               <l>Helliſh Complotment! which a League renewes,</l>
+               <l>Leſſe with the men, then th' Actions of the Jewes.</l>
+               <l>ſuch was their Bedlane Rabble, and the Cry</l>
+               <l>Of <hi>Juſtice</hi> now, 'mongſt them was <hi>Crucifie:</hi>
+               </l>
+               <l>
+                  <hi>Pilates</hi> Conſent is <hi>Bradſhawes</hi> Sentence here;</l>
+               <l>The <hi>Judgement hall's</hi> remov'd to <hi>Weſtminſter.</hi>
+               </l>
+               <l>Hayle to the Reeden Scepture the Head, and knee</l>
+               <l>Act o're againe that Curſed Pageantrie.</l>
+               <l>The Caitiffe crew in ſolemne pompe guard on</l>
+               <l>Mock'd Majeſtie as not to th' Block, but Throne,</l>
+               <l>
+                  <pb n="3" facs="tcp:165109:3"/>
+                  <!-- PDF PAGE 47 -->
+The Belch agrees of thoſe envenom'd Lyes;</l>
+               <l>There a Blaſphemer, here a Murd'rer dyes.</l>
+               <l>If that go firſt in horror, this comes next,</l>
+               <l>A pregnant Comment on that gaſtly Text.</l>
+               <l>The Heav'ns ne're ſaw, but in that Tragick howre,</l>
+               <l>Slaughter'd ſo great an <hi>Innocence, and Power.</hi>
+               </l>
+               <l>Bloud-thirſty Tygers! could no ſtreame ſuffiſe</l>
+               <l>T'allay that Hell within your Breaſts but this?</l>
+               <l>Muſt you needs ſwill in <hi>Cleopatra's</hi> Cup,</l>
+               <l>And drinke the price of Kingdomes in a ſup?</l>
+               <l>Ciſterns of Loyalty have deeply bled,</l>
+               <l>And now y'have damm'd the Royall Fountaine Head.</l>
+               <l>Cruell <hi>Phlebotomie!</hi> at once to draine</l>
+               <l>The <hi>Median,</hi> and the rich <hi>Baſilick</hi> veine:</l>
+               <l>The tinctures great that popular murther brings,</l>
+               <l>'Tis ſcarlet deep, that's dy'd in bloud of Kings.</l>
+               <l>But what! could <hi>Iſrael</hi> find no other way</l>
+               <l>To their wiſh'd <hi>Canaan</hi> than through the Red Sea?</l>
+               <l>Muſt God have here his deading Fire and Cloud,</l>
+               <l>And he be th' Guide to this outragious Crowd?</l>
+               <l>Shall the black <hi>Conclave</hi> counterfeit his hand,</l>
+               <l>And ſuperſcribe their Guilt, <hi>Divine Command?</hi>
+               </l>
+               <l>Doth th'ugly Fiend uſurpe a Saint-like grace?</l>
+               <l>And Holy-water waſh the Devils face!</l>
+               <l>Shall <hi>Dagons</hi> Temple the mock'd <hi>Arke</hi> incloſe?</l>
+               <l>Can <hi>Eſau's</hi> hands agree wth <hi>Jacob's</hi> voyce?</l>
+               <l>Muſt <hi>Molech's</hi> Fire now on the Altar burne?</l>
+               <l>And <hi>Abel's</hi> bloud to Expiation turne?</l>
+               <l>Is Righteouſneſſe ſo lewd a Bawd? and can</l>
+               <l>The <hi>Bibles</hi> Cover ſerve the <hi>Alcoran?</hi>
+               </l>
+               <l>Thus when Hel's meant, Religion's bid to ſhine</l>
+               <l>As <hi>Faux</hi> his Lanterne lights him to his <hi>Mine.</hi>
+               </l>
+               <l>Here, here is ſins <hi>non ultra,</hi> when one Lie</l>
+               <l>Kils this, and ſtabs at <hi>Majeſtie.</hi>
+               </l>
+               <l>And though his ſleepie Arme ſuſpend the ſcourge,</l>
+               <l>Nor doth loud Bloud in winged Vengeance urge,</l>
+               <l>Though the ſoft houres a while in pleaſures flie,</l>
+               <l>And conquering Treaſon ſing her Lullabie.</l>
+               <l>The guilt at length in fury he'l inroule</l>
+               <l>With barbed Arrows on the trayt'rous Soule.</l>
+               <l>Time may be when that <hi>John-à-Leyden</hi> King</l>
+               <l>
+                  <pb n="4" facs="tcp:165109:4"/>
+                  <!-- PDF PAGE 48 -->
+His Quarters to this Tombe an Offring bring,</l>
+               <l>And that <hi>Be-Munſter'd</hi> Rabble may have eyes</l>
+               <l>To read the Price of their deare Butcheries.</l>
+               <l>Yet if juſt Providence reprieve the Fate,</l>
+               <l>The Judgment will be deeper, though't be late.</l>
+               <l>And After-times ſhall feel the curſe enhanc'd,</l>
+               <l>But how much They've the Sinne bequeath'd, advanc'd.</l>
+               <l>Meane time (moſt bleſſed ſhade) the Loyall eye</l>
+               <l>Shall pay her Tribute to thy Memorie.</l>
+               <l>Thy <hi>Aromatick</hi> Name ſhall feaſt our ſenſe,</l>
+               <l>'Bove <hi>balmie Spiknard's</hi> fragrant Redolence,</l>
+               <l>Whilſt on thy loathſome Murderers ſhall dwell</l>
+               <l>A plague-ſore, blayne, and rotten ulcers ſmell.</l>
+               <l>
+                  <hi>Wonder of Men and Goodneſſe!</hi> ſtamp'd to be</l>
+               <l>The Pride, and Flouriſh of all Hiſtorie.</l>
+               <l>Thou haſt undone the Annals, and engroſs'd</l>
+               <l>All th'<hi>Heroes</hi> Glory which the Earth e're loſt.</l>
+               <l>Thy Priviledge 'tis onely to commence</l>
+               <l>
+                  <hi>Laureate</hi> in Sufferings, and in Patience.</l>
+               <l>Thy wrongs were 'bove all ſweetneſſe to digeſt;</l>
+               <l>And yet thy ſweetneſſe conquer'd the ſharp teſt:</l>
+               <l>Both ſo immenſe, and infinitely vaſt,</l>
+               <l>The firſt could not be reach'd, but by the laſt.</l>
+               <l>Meane Maſſacres are but in death begun;</l>
+               <l>But Thou haſt Liv'd an Execution.</l>
+               <l>Cloſe coffin'd up in a deceaſed Life;</l>
+               <l>Had Orphan Children, and a Widow-Wife.</l>
+               <l>Friends not t'approach, or comfort, but to mourne</l>
+               <l>And weep their unheard plaints, as at thy urne?</l>
+               <l>Such black Attendants Colonied thy Cell,</l>
+               <l>But for thy Preſence, <hi>Car'ſbrooke</hi> had been Hell.</l>
+               <l>Thus baſely to be Dungeon'd, would enrage</l>
+               <l>Great <hi>Bajazet</hi> beyond an Iron Cage.</l>
+               <l>That deep indignity might have layne</l>
+               <l>Something the lighter from a <hi>Tamerlaine.</hi>
+               </l>
+               <l>But here <hi>Sidonian</hi> Slaves uſurp the Reines,</l>
+               <l>And lock the Scepter-bearing Armes in chaines.</l>
+               <l>The ſpew'd-up ſurfeit of the glut'nous Land;</l>
+               <l>Honour'd by ſcorne, and cleane beneath all brand.</l>
+               <l>For ſuch a Varlet-Brood to teare all downe,</l>
+               <l>And make a common Foot-ball of the Crowne.</l>
+               <l>
+                  <pb n="5" facs="tcp:165109:4"/>
+                  <!-- PDF PAGE 48 -->
+T'inſult on wounded Majeſty, and broach,</l>
+               <l>The bloud of Honour by their vile reproach.</l>
+               <l>What royall eye but thine could ſober ſee,</l>
+               <l>Bowing ſo low, yet bearing up ſo high?</l>
+               <l>What an unbroken ſweetneſſe grac'd thy Soule,</l>
+               <l>Beyond the world, proud conqueſt, or controule?</l>
+               <l>Maugre grim cruelty, thou keepſt thy hold;</l>
+               <l>Thy thornie Crowne was ſtill a Crowne of Gold.</l>
+               <l>Chaſt Honour, Might enrag'd could ne're defloure,</l>
+               <l>Though others th' Uſe, Thou claim'dſt the Right of Power.</l>
+               <l>The <hi>brave Athenian</hi> thus (with lopp'd-off Hands)</l>
+               <l>A ſtop to ſwelling ſayles by's mouth commands.</l>
+               <l>New Vigour rouz'd Thee ſtill in thy Embroyles,</l>
+               <l>
+                  <hi>Antaeus</hi>-like, recruiting from the Foyles.</l>
+               <l>Victorious fury could not terrour bring,</l>
+               <l>Enough to quell a captivated King.</l>
+               <l>So did that <hi>Roman Miracle</hi> withſtand</l>
+               <l>
+                  <hi>Hetrurian</hi> ſhoales, but with a ſingle hand.</l>
+               <l>The Church in thee had ſtill her Armies; thus</l>
+               <l>The World once fought with <hi>Athanaſins.</hi>
+               </l>
+               <l>The Gantlet thus upheld; It is decreed,</l>
+               <l>(No ſafety elſe for Treaſon) <hi>Charles</hi> muſt bleed.</l>
+               <l>Traytor and Soveraigne now inverted meet;</l>
+               <l>The wealthy Olive's dragg'd to th' Brambles feet.</l>
+               <l>The Throne is metamorphiz'd to the Barre,</l>
+               <l>And deſpicable Batts the Eagle dare.</l>
+               <l>Aſtoniſhment! yet ſtill we muſt admire</l>
+               <l>Thy courage growing with thy conflicts high'r.</l>
+               <l>No palſied hands or trembling knees betray</l>
+               <l>That Cauſe, on which thy ſouls fure bottom'd lay.</l>
+               <l>So free and undiſturbed flew thy Breath,</l>
+               <l>Not as condemn'd, but purchaſing a death.</l>
+               <l>Thoſe early Martyrs in their funerall pile,</l>
+               <l>Embrac'd their Flames with ſuch a quiet ſmile.</l>
+               <l>Brave <hi>Coeur-de-Lyon</hi> Soule, that would'ſt not vayle</l>
+               <l>In one baſe ſyllable to beg thy Bayle!</l>
+               <l>How didſt thou bluſh to live at ſuch a price,</l>
+               <l>As ask'd thy People for a ſacrifice?</l>
+               <l>Th' <hi>Athenian Prince</hi> in ſuch a pitch of zeale,</l>
+               <l>Redeem'd his deſtin'd Hoaſt, and Common-weale;</l>
+               <l>Who brib'd his cheated Enemies to kill,</l>
+               <l>
+                  <pb n="6" facs="tcp:165109:5"/>
+                  <!-- PDF PAGE 49 -->
+And both their Conqueſt, and their Conquerour fell.</l>
+               <l>Thus thou our Martyr died'ſt: but oh! we ſtand</l>
+               <l>A Ranſome for another <hi>Charles</hi> his Hand.</l>
+               <l>One that will write thy Chronicle in Red,</l>
+               <l>And dip his Pen in what thy Foes have bled.</l>
+               <l>Shall Treas'nous Heads in purpule Caldrons drench,</l>
+               <l>And with ſuch veines the Flames of Kingdomes quench.</l>
+               <l>Then thou art leaſt at <hi>Westminſter,</hi> ſhall't be</l>
+               <l>Fil'd in the Pompous Liſt of Majeſtie.</l>
+               <l>Thy <hi>Mauſalaeum</hi> ſhall in glory riſe,</l>
+               <l>And Teares, and wonder force from Nephews Eyes.</l>
+               <l>Till when (though black-mouth'd Miſcreants engrave)</l>
+               <l>No Epitaph, but Tyrant, on thy Grave.</l>
+               <l>A Vault of Loyalty ſhall keep thy Name,</l>
+               <l>An orient, and bright <hi>Olibian</hi> flame.</l>
+               <l>On which, when times ſucceeding foot ſhall tread,</l>
+               <l>Such Characters as theſe ſhall there be read.</l>
+               <l>Here <hi>CHARLES</hi> the beſt of Monarchs, butcher'd lies;</l>
+               <l>The Glory of all <hi>Martyrologies.</hi>
+               </l>
+               <l>Bulwark of Law; the Churches Cittadell;</l>
+               <l>In whom they triumph'd once, with whom they fell:</l>
+               <l>An Engliſh <hi>Salomon,</hi> a <hi>Conſtantine;</hi>
+               </l>
+               <l>Pandect of Knowledge, Humane and Divine.</l>
+               <l>Meek ev'n to wonder, yet of ſtouteſt Grace,</l>
+               <l>To ſweeten Majeſty, but not debaſe.</l>
+               <l>So whole made up of clemency, the Throne</l>
+               <l>And Mercy-ſeat to Him were alwayes one.</l>
+               <l>Inviting Treaſon with a pardoning look,</l>
+               <l>Inſtead of Gratitude, a ſtab He took.</l>
+               <l>With paſſion lov'd; that when He murd'red lay,</l>
+               <l>Heav'n conquered ſeem'd, and Hell to bear the ſway.</l>
+               <l>A Prince ſo richly good, ſo bleſt a Reigne,</l>
+               <l>The world n'ere ſaw but once, nor can againe.</l>
+            </lg>
+            <q xml:lang="lat">
+               <lg>
+                  <l>—<hi>Humano generi Natura benigni</hi>
+                  </l>
+                  <l>
+                     <hi>Nil dedit, aut tribuet moderaso hoc principe major</hi>
+                  </l>
+                  <l>
+                     <hi>In quo vera dei, vivénſque eluxit imago:</hi>
+                  </l>
+                  <l>
+                     <hi>Hunc quoniam ſcelerata cohors violavit, acerbas</hi>
+                  </l>
+                  <l>
+                     <hi>Sacrilego Dens ipſe petet de Sanguine poenas</hi>
+                  </l>
+                  <l>
+                     <hi>Contemptúmque ſin Simulachri haud linquet inultum.</hi>
+                  </l>
+               </lg>
+            </q>
+            <bibl>Parodia ex Buchanani Geneth: Jacobi ſexti. <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </bibl>
+         </div>
+      </body>
+   </text>
+</TEI>
